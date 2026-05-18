@@ -4,3 +4,4 @@ def ordenar_numeros(lista):
             if lista[j] > lista[j+1]:
                 lista[j], lista[j+1] = lista[j+1], lista[j]
     return lista
+print("cambio por fallo previo")
