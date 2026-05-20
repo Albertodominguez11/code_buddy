@@ -5,3 +5,9 @@ def ordenar_numeros(lista):
                 lista[j], lista[j+1] = lista[j+1], lista[j]
     return lista
 print("funcion que ordena numeros")
+
+print("llamda a la funcion")
+
+lista = [2, 7, 3, 9, 1]
+ordenar_numeros(lista)
+print("lista ordenada")
