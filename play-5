@@ -4,11 +4,4 @@ def ordenar_numeros(lista):
             if lista[j] > lista[j+1]:
                 lista[j], lista[j+1] = lista[j+1], lista[j]
     return lista
-print("cambio por fallo previo")
-print("y otro error")
-print("y espero que el ultimo")
-print("ve esto el agente?")
-print("fallo tras fallo")
-print("nuevo dia nuevo print")
-print("un unico print es un dia seria muy bonito")
-print("error eu modelo ia")
+print("funcion que ordena numeros")
