@@ -12,3 +12,4 @@ lista = [2, 7, 3, 9, 1]
 ordenar_numeros(lista)
 print("lista ordenada")
 print("Codigo terminado")
+print(".")
