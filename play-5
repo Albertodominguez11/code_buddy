@@ -21,3 +21,5 @@ resultado = suma(1+2)
 print("la suma de 1 y 2 es:", resultado)
 
 print("dos funciones")
+
+print("fin codigo")
