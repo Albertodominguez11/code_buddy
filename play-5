@@ -6,7 +6,7 @@ def ordenar_numeros(lista):
     return lista
 print("funcion que ordena numeros")
 
-print("llamda a la funcion")
+print("llamada a la funcion")
 
 lista = [2, 7, 3, 9, 1]
 ordenar_numeros(lista)
@@ -24,4 +24,5 @@ print("dos funciones")
 
 print("fin codigo")
 print("revisar el codigo")
-print(error)
+print("error")
+print("he corregido algunos errores, no todos")
