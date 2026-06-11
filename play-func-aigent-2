@@ -1,0 +1,6 @@
+def ordenar_numeros(lista)
+return lista_ordenada
+
+numeros = [4,6,3,2,5,10]
+resultado=ordenar_numeros(lista)
+print("los numeros ordenados son: {resultado}")
