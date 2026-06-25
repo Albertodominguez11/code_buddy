@@ -1,6 +1,10 @@
 # Code Buddy
 
-Code Buddy es un agente de inteligencia artificial que revisa Pull Requests de GitHub de forma automática. Cuando un desarrollador abre o actualiza un PR, Code Buddy analiza los cambios, detecta bugs, errores de sintaxis y malas prácticas, genera tests unitarios para el código revisado, los ejecuta en un sandbox aislado y publica los resultados como comentarios directamente en el PR.
+Agente de IA que revisa Pull Requests de GitHub de forma automática: 
+- analiza los cambios
+- detecta bugs, errores de sintaxis y malas prácticas
+- genera tests unitarios para el código revisado
+- publica los resultados como comentarios directamente en el PR.
 
 ---
 
